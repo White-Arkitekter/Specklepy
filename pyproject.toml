@@ -1,5 +1,5 @@
 [project]
-name = "tower-teachers"
+name = "white-specklepy"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -13,3 +13,4 @@ dependencies = [
 members = [
     "03-specklepy",
 ]
+>
