@@ -26,7 +26,6 @@ pip install uv
 Navigate to the project folder and sync dependencies:
 
 ```bash
-cd tower-teachers
 uv sync
 ```
 
@@ -60,7 +59,7 @@ You should see a success message confirming the Speckle client connection.
 
 2. Click **"New Token"**, give it a name and select the required scopes, then copy the token.
 
-3. Copy the `.env.example` file to `.env` in the `tower-teachers` folder:
+3. Copy the `.env.example` file to `.env` folder:
 
 ```bash
 cp .env.example .env
