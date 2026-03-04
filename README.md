@@ -8,7 +8,7 @@ Basics of SpecklePy
 Clone this repo to your PC (make a local copy):
 
 ```bash
-git clone https://github.com/White-Arkitekter/Specklepy/
+git clone [https://github.com/White-Arkitekter/Specklepy/](https://github.com/White-Arkitekter/Specklepy.git)
 ```
 
 Or in VSCode (in the Welcome tab), use the option **"Clone Git Repository..."** and provide the URL.
