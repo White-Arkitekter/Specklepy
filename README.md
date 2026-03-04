@@ -1,4 +1,4 @@
-# Session-03-SpecklePy
+# SpecklePy
 Basics of SpecklePy
 
 ## Getting Started
