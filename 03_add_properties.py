@@ -33,8 +33,8 @@ def main():
 
     # Add custom properties to the root object
     data["custom_property"] = "Hello from specklepy!"
-    data["analysis_date"] = "2026-03-04"
-    data["processed_by"] = "Tower Script"
+    data["analysis_date"] = "2026-03-05"
+    data["processed_by"] = "Libny"
 
     # Or add properties to child elements
     elements = getattr(data, "@elements", None) or getattr(data, "elements", [])

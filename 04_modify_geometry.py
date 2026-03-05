@@ -4,7 +4,6 @@
 This script demonstrates how to find an object by applicationId,
 duplicate it with an offset, and commit a new version.
 
-Use the "two blocks" model. Copy the applicationId of the blocks's floor B.
 Use this model: https://app.speckle.systems/projects/YOUR_PROJECT_ID/models/YOUR_MODEL_ID
 """
 
@@ -20,7 +19,7 @@ PROJECT_ID = "YOUR_PROJECT_ID"
 MODEL_ID = "YOUR_MODEL_ID"
 
 # TODO: Replace with the applicationId of an object to duplicate
-TARGET_APPLICATION_ID = "YOUR_APPLICATION_ID"
+TARGET_APPLICATION_ID = "YOUR_TARGET_APPLICATION_ID"
 
 # Offset for the duplicated object (move to the right = positive X)
 # Note: The model uses millimeters, so 50 meters = 50000 mm

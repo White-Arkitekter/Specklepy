@@ -4,7 +4,6 @@
 This script demonstrates how to fetch and explore data from
 an existing Speckle model/version.
 
-Use your personal tower model from session2 (project "cw-yourname")
 https://app.speckle.systems/projects/YOUR_PROJECT_ID/models/YOUR_MODEL_ID
 """
 

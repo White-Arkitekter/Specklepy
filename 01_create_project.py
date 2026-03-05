@@ -35,7 +35,7 @@ def main():
 
     # Create a new project inside the workspace
     project = client.project.create_in_workspace(WorkspaceProjectCreateInput(
-        name="YOUR_PROJECT_NAME",
+        name="My Specklepy Project",
         description="Learning specklepy",
         visibility=ProjectVisibility.PRIVATE,
         workspaceId=WORKSPACE_ID
